@@ -1,0 +1,28 @@
+# Local secrets
+.env
+
+# Local project guidance and planning
+AGENTS.md
+PROJECT_PLAN.md
+PROJECT_STATUS.md
+
+# Python virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test/tool cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# Python package metadata
+*.egg-info/
+
+# Reproducible raw API responses
+data/raw/

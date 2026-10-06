@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "queries": [
+    {
+      "query_id": "Q001",
+      "raw_query": "I want a light, exciting first-love movie that I can finish within two hours.",
+      "hard_constraints": {
+        "content_type": "movie",
+        "max_runtime_minutes": 120,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance"],
+        "themes": ["first love"],
+        "tones": ["light", "heartwarming"],
+        "preferred_aspects": ["story"],
+        "must_avoid": []
+      }
+    },
+    {
+      "query_id": "Q002",
+      "raw_query": "Recommend a slow-burn workplace romance series available on Netflix in Switzerland.",
+      "hard_constraints": {
+        "content_type": "tv",
+        "max_runtime_minutes": null,
+        "providers": ["Netflix"]
+      },
+      "expected_preferences": {
+        "genres": ["romance", "drama"],
+        "themes": ["workplace romance", "slow burn"],
+        "tones": ["warm", "realistic"],
+        "preferred_aspects": ["character development", "chemistry"],
+        "must_avoid": []
+      }
+    },
+    {
+      "query_id": "Q003",
+      "raw_query": "I am looking for a warm romance movie with time travel that is not too complicated.",
+      "hard_constraints": {
+        "content_type": "movie",
+        "max_runtime_minutes": null,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance", "fantasy"],
+        "themes": ["time travel", "love"],
+        "tones": ["warm", "hopeful"],
+        "preferred_aspects": ["story"],
+        "must_avoid": ["complex plot"]
+      }
+    },
+    {
+      "query_id": "Q004",
+      "raw_query": "I want an easy-to-watch romantic comedy series with plenty of humor and strong chemistry between the leads.",
+      "hard_constraints": {
+        "content_type": "tv",
+        "max_runtime_minutes": null,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance", "comedy"],
+        "themes": ["romantic comedy"],
+        "tones": ["funny", "light"],
+        "preferred_aspects": ["chemistry", "cast"],
+        "must_avoid": ["heavy conflict"]
+      }
+    },
+    {
+      "query_id": "Q005",
+      "raw_query": "A quiet, bittersweet romance movie with beautiful cinematography, but no terminal illness.",
+      "hard_constraints": {
+        "content_type": "movie",
+        "max_runtime_minutes": null,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance", "drama"],
+        "themes": ["love", "bittersweet relationship"],
+        "tones": ["quiet", "bittersweet"],
+        "preferred_aspects": ["cinematography"],
+        "must_avoid": ["terminal illness"]
+      }
+    },
+    {
+      "query_id": "Q006",
+      "raw_query": "Recommend a movie about a realistic adult relationship without fantasy elements.",
+      "hard_constraints": {
+        "content_type": "movie",
+        "max_runtime_minutes": null,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance", "drama"],
+        "themes": ["adult relationship", "realistic romance"],
+        "tones": ["mature", "realistic"],
+        "preferred_aspects": ["dialogue", "character development"],
+        "must_avoid": ["fantasy"]
+      }
+    },
+    {
+      "query_id": "Q007",
+      "raw_query": "I am looking for an enemies-to-lovers romance series available on Prime Video.",
+      "hard_constraints": {
+        "content_type": "tv",
+        "max_runtime_minutes": null,
+        "providers": ["Prime Video"]
+      },
+      "expected_preferences": {
+        "genres": ["romance"],
+        "themes": ["enemies to lovers"],
+        "tones": ["playful", "romantic"],
+        "preferred_aspects": ["chemistry"],
+        "must_avoid": []
+      }
+    },
+    {
+      "query_id": "Q008",
+      "raw_query": "Recommend a romance movie with memorable music and soundtrack that is no longer than 130 minutes.",
+      "hard_constraints": {
+        "content_type": "movie",
+        "max_runtime_minutes": 130,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance", "music"],
+        "themes": ["music", "love"],
+        "tones": ["emotional"],
+        "preferred_aspects": ["soundtrack"],
+        "must_avoid": []
+      }
+    },
+    {
+      "query_id": "Q009",
+      "raw_query": "I do not mind whether it is a movie or a series; I want something warm about both family and love.",
+      "hard_constraints": {
+        "content_type": null,
+        "max_runtime_minutes": null,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance", "family", "drama"],
+        "themes": ["family", "love"],
+        "tones": ["warm", "heartwarming"],
+        "preferred_aspects": ["story", "relationships"],
+        "must_avoid": []
+      }
+    },
+    {
+      "query_id": "Q010",
+      "raw_query": "A comforting romance series with low conflict and a happy tone.",
+      "hard_constraints": {
+        "content_type": "tv",
+        "max_runtime_minutes": null,
+        "providers": []
+      },
+      "expected_preferences": {
+        "genres": ["romance"],
+        "themes": ["comfort", "healthy relationship"],
+        "tones": ["comforting", "happy"],
+        "preferred_aspects": ["relationships"],
+        "must_avoid": ["heavy conflict"]
+      }
+    }
+  ]
+}

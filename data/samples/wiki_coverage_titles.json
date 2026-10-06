@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "language": "en",
+  "items": [
+    {
+      "wikipedia_title": "Before Sunset",
+      "expected_content_type": "movie",
+      "selection_notes": "English-language romance sequel from the 2000s"
+    },
+    {
+      "wikipedia_title": "Pride & Prejudice (2005 film)",
+      "expected_content_type": "movie",
+      "selection_notes": "English-language literary adaptation"
+    },
+    {
+      "wikipedia_title": "In the Mood for Love",
+      "expected_content_type": "movie",
+      "selection_notes": "Cantonese-language romance from Hong Kong"
+    },
+    {
+      "wikipedia_title": "The Notebook",
+      "expected_content_type": "movie",
+      "selection_notes": "Popular English-language novel adaptation"
+    },
+    {
+      "wikipedia_title": "Crazy Rich Asians",
+      "expected_content_type": "movie",
+      "selection_notes": "Contemporary romantic comedy and adaptation"
+    },
+    {
+      "wikipedia_title": "Portrait of a Lady on Fire",
+      "expected_content_type": "movie",
+      "selection_notes": "French-language historical queer romance"
+    },
+    {
+      "wikipedia_title": "Your Name",
+      "expected_content_type": "movie",
+      "selection_notes": "Japanese animated fantasy romance"
+    },
+    {
+      "wikipedia_title": "Past Lives (film)",
+      "expected_content_type": "movie",
+      "selection_notes": "Recent multilingual romantic drama"
+    },
+    {
+      "wikipedia_title": "Amélie",
+      "expected_content_type": "movie",
+      "selection_notes": "French-language romantic comedy"
+    },
+    {
+      "wikipedia_title": "Love Actually",
+      "expected_content_type": "movie",
+      "selection_notes": "Ensemble holiday romantic comedy"
+    },
+    {
+      "wikipedia_title": "Normal People (TV series)",
+      "expected_content_type": "tv",
+      "selection_notes": "English-language literary miniseries adaptation"
+    },
+    {
+      "wikipedia_title": "Bridgerton",
+      "expected_content_type": "tv",
+      "selection_notes": "Ongoing historical romance adaptation"
+    },
+    {
+      "wikipedia_title": "Crash Landing on You",
+      "expected_content_type": "tv",
+      "selection_notes": "Korean-language romantic drama"
+    },
+    {
+      "wikipedia_title": "Heartstopper (TV series)",
+      "expected_content_type": "tv",
+      "selection_notes": "Queer young-adult graphic-novel adaptation"
+    },
+    {
+      "wikipedia_title": "Outlander (TV series)",
+      "expected_content_type": "tv",
+      "selection_notes": "Long-running historical fantasy adaptation"
+    },
+    {
+      "wikipedia_title": "Reply 1988",
+      "expected_content_type": "tv",
+      "selection_notes": "Korean ensemble romance and family drama"
+    },
+    {
+      "wikipedia_title": "Young Royals",
+      "expected_content_type": "tv",
+      "selection_notes": "Swedish-language queer teen romance"
+    },
+    {
+      "wikipedia_title": "Love Life (American TV series)",
+      "expected_content_type": "tv",
+      "selection_notes": "Anthology romantic comedy series"
+    },
+    {
+      "wikipedia_title": "One Day (TV series)",
+      "expected_content_type": "tv",
+      "selection_notes": "Recent literary romance adaptation"
+    },
+    {
+      "wikipedia_title": "Nobody Wants This",
+      "expected_content_type": "tv",
+      "selection_notes": "Recent romantic comedy series"
+    }
+  ]
+}
